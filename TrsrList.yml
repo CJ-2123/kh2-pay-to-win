@@ -1,0 +1,54 @@
+# Agrabah
+300:
+  ItemId: 535 # See You Again, Lamp Charm is now Munny Pouch (Mickey)
+303:
+  ItemId: 362 # Cosmic Razzle Dazzle, Wishing Lamp is now Munny Pouch (Olette)
+# Beast's Castle
+299:
+  ItemId: 535 # Things Are Just Beginning, Cure is now Munny Pouch (Mickey)
+528:
+  ItemId: 535 # Xaldin's Demise, Secret Ansem's Report 4 is now Munny Pouch (Mickey)
+# Cavern of Remembrance
+590:
+  ItemId: 535 # Garden of Assemblage, Proof of Nonexistence is now Munny Pouch (Mickey)
+# Halloween Town
+301:
+  ItemId: 362 # Oogie's Demise, Magnet is now Munny Pouch (Olette)
+275:
+  ItemId: 535 # The Experiment, Decisive Pumpkin is now Munny Pouch (Mickey)
+# Land of Dragons
+257:
+  ItemId: 535 # The Hero Who Saved the Day, Hidden Dragon is now Munny Pouch (Mickey)
+# Olympus Coliseum
+260:
+  ItemId: 535 # The Aftermath, Hero's Crest is now Munny Pouch (Mickey)
+272:
+  ItemId: 535 # Good-bye, Auron, Guardian Soul is now Munny Pouch (Mickey)
+# Port Royal
+263:
+  ItemId: 362 # Parting Ways, Follow the Wind is now Munny Pouch (Olette)
+530:
+  ItemId: 535 # Luxord Flees, Secret Ansem's Report 6 is now Munny Pouch (Mickey)
+# Pride Lands
+302:
+  ItemId: 362 # A New King, Fire is now Munny Pouch (Olette)
+# Simulated Twilight Town
+389:
+  ItemId: 362 # Setzer Victory, Champion Belt is now Munny Pouch (Olette)
+# Space Paranoids
+267:
+  ItemId: 362 # To Hollow Bastion, Photon Debugger is now Munny Pouch (Olette)
+# Timeless River
+262:
+  ItemId: 535 # The Castle Is Secure, Wisdom Form is now Munny Pouch (Mickey)
+# The World That Never Was
+277:
+  ItemId: 362 # Time to Sleep (A), Two Become One is now Munny Pouch (Olette)
+527:
+  ItemId: 535 # On Our Way, Secret Ansem's Report 3 is now Munny Pouch (Mickey)
+533:
+  ItemId: 535 # As the Battle Ends, Secret Ansem's Report 9 is now Munny Pouch (Mickey)
+536:
+  ItemId: 535 # A Friend Within, Secret Ansem's Report 12 is now Munny Pouch (Mickey)
+537:
+  ItemId: 535 # The Door to Kingdom Hearts, Secret Ansem's Report 13 is now Munny Pouch (Mickey)
